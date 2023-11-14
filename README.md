@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @firthzilla
 - 👀 I’m interested in ...
- Web development, Machine Learning, AI, Python, Automation, Blockchain
+ Android Development, Game Development, long walks on the beach, Python
 - 🌱 I’m currently learning ...
-Django web development, Trading AI/Automation, Blockchain
+  Java, Python, Android Studio, C++, GODOT, C# etc
 - 💞️ I’m looking to collaborate on ...
-Django web development projects
+  Android dev prokects
 - 📫 How to reach me ...
 You can email me at alexfirth.af@gmail.com
 
